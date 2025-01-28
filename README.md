@@ -1,9 +1,11 @@
 # This is a telegram bot project
     Description
 
-    Project ini Dibuat dengan tujuan untuk memudahkan seseorang seperti mendownload video, audio, image atau file dari berbagai platform tertentu.
+    Project ini Dibuat dengan tujuan untuk memudahkan seseorang
+    seperti mendownload video, audio, image atau file dari berbagai platform tertentu.
 
-    Jika anda menggunakan/mengcopy repo ini maka itu akan menjadi tanggung jawabmu sendiri, dan resiko pun harus ditanggung sendiri apapun yang terjadi
+    Jika anda menggunakan/mengcopy repo ini maka itu akan menjadi tanggung jawabmu sendiri,
+    dan resiko pun harus ditanggung sendiri apapun yang terjadi
 
 
 project ini bisa dijalankan di device mana saja
